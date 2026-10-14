@@ -1,0 +1,211 @@
+[
+  {
+    "product_id": "P001",
+    "name": "White Classic T-Shirt",
+    "description": "Essential white crew neck t-shirt in soft cotton. Perfect for everyday casual wear. Clean minimal design.",
+    "category": "tops",
+    "color": "white",
+    "gender": "Unisex",
+    "price_inr": 1699,
+    "image": "p001.jpg"
+  },
+  {
+    "product_id": "P002",
+    "name": "Blue Casual T-Shirt",
+    "description": "Relaxed fit blue t-shirt in breathable cotton blend. Great for warm weather and casual outings.",
+    "category": "tops",
+    "color": "blue",
+    "gender": "Men's",
+    "price_inr": 1899,
+    "image": "p002.jpg"
+  },
+  {
+    "product_id": "P003",
+    "name": "Green Graphic T-Shirt",
+    "description": "Vibrant green t-shirt with a subtle texture. Lightweight and comfortable for all day wear.",
+    "category": "tops",
+    "color": "green",
+    "gender": "Men's",
+    "price_inr": 1999,
+    "image": "p003.jpg"
+  },
+  {
+    "product_id": "P004",
+    "name": "Blue Slim Fit Denim Jeans",
+    "description": "Classic slim fit blue denim jeans with stretch fabric for comfort. Five pocket design with a modern cut.",
+    "category": "bottoms",
+    "color": "blue",
+    "gender": "Men's",
+    "price_inr": 3999,
+    "image": "p004.jpg"
+  },
+  {
+    "product_id": "P005",
+    "name": "Blue Bomber Jacket",
+    "description": "Stylish blue bomber jacket with ribbed cuffs and collar. Lightweight enough for spring and autumn.",
+    "category": "outerwear",
+    "color": "blue",
+    "gender": "Men's",
+    "price_inr": 7499,
+    "image": "p005.jpg"
+  },
+  {
+    "product_id": "P006",
+    "name": "Black Snapback Hat",
+    "description": "Sleek black snapback hat with flat brim. Adjustable fit suitable for all head sizes. Urban streetwear style.",
+    "category": "accessories",
+    "color": "black",
+    "gender": "Unisex",
+    "price_inr": 2499,
+    "image": "p006.jpg"
+  },
+  {
+    "product_id": "P007",
+    "name": "Pink Analog Watch",
+    "description": "Elegant pink watch with rose gold case and leather strap. Water resistant with a minimalist dial design.",
+    "category": "accessories",
+    "color": "pink",
+    "gender": "Women's",
+    "price_inr": 10999,
+    "image": "p007.jpg"
+  },
+  {
+    "product_id": "P008",
+    "name": "White Sneakers",
+    "description": "Clean white low-top sneakers with cushioned sole. Versatile design pairs well with jeans or joggers.",
+    "category": "footwear",
+    "color": "white",
+    "gender": "Unisex",
+    "price_inr": 5999,
+    "image": "p008.jpg"
+  },
+  {
+    "product_id": "P009",
+    "name": "Black Leather Belt",
+    "description": "Classic black leather belt with silver buckle. Genuine leather, 35mm width. Fits waist sizes 28 to 42.",
+    "category": "accessories",
+    "color": "black",
+    "gender": "Men's",
+    "price_inr": 2999,
+    "image": "p009.jpg"
+  },
+  {
+    "product_id": "P010",
+    "name": "Graphic Print T-Shirt",
+    "description": "White t-shirt featuring a bold graphic print logo on the front. Soft cotton blend, perfect for casual everyday wear.",
+    "category": "tops",
+    "color": "white",
+    "gender": "Unisex",
+    "price_inr": 3299,
+    "image": "p010.jpg"
+  },
+  {
+    "product_id": "P011",
+    "name": "Beige Women's Handbag",
+    "description": "Elegant beige structured handbag with gold-tone hardware and top handle. Spacious interior with multiple compartments. Perfect for work or a day out.",
+    "category": "accessories",
+    "color": "beige",
+    "gender": "Women's",
+    "price_inr": 4999,
+    "image": "p011.jpg"
+  },
+  {
+    "product_id": "P012",
+    "name": "White Graphic Print Shoes",
+    "description": "Bold white sneakers with eye-catching graphic print detailing. Rubber sole with cushioned insole for all day comfort.",
+    "category": "footwear",
+    "color": "white",
+    "gender": "Unisex",
+    "price_inr": 6499,
+    "image": "p012.jpg"
+  },
+  {
+    "product_id": "P013",
+    "name": "Animal Print Shoes",
+    "description": "Statement animal print shoes with leopard pattern upper. Faux leather finish with cushioned sole. Bold and fashionable.",
+    "category": "footwear",
+    "color": "brown",
+    "gender": "Women's",
+    "price_inr": 5499,
+    "image": "p013.jpg"
+  },
+  {
+    "product_id": "P014",
+    "name": "Brown Patterned Shoes",
+    "description": "Classic brown shoes with subtle woven pattern detailing. Leather upper with rubber sole. Versatile for casual and semi-formal occasions.",
+    "category": "footwear",
+    "color": "brown",
+    "gender": "Men's",
+    "price_inr": 7999,
+    "image": "p014.jpg"
+  },
+  {
+    "product_id": "P015",
+    "name": "White Canvas Shoes",
+    "description": "Minimalist white canvas shoes with clean silhouette. Lightweight and breathable for everyday wear. Pairs well with any outfit.",
+    "category": "footwear",
+    "color": "white",
+    "gender": "Unisex",
+    "price_inr": 4499,
+    "image": "p015.jpg"
+  },
+  {
+    "product_id": "P016",
+    "name": "Garba Chaniya Choli with Full Sleeve",
+    "description": "Vibrant traditional chaniya choli set with full sleeve blouse. Intricate mirror work and colorful embroidery on bright fabric. Perfect for Navratri garba nights. Comes with matching dupatta.",
+    "category": "ethnic",
+    "color": "multicolor",
+    "gender": "Women's",
+    "price_inr": 3999,
+    "image": "p016.jpg"
+  },
+  {
+    "product_id": "P017",
+    "name": "Garba Chaniya Choli Sleeveless",
+    "description": "Elegant sleeveless chaniya choli set with hand embroidered bodice and flared skirt. Lightweight fabric ideal for dancing at Navratri garba. Includes embellished dupatta.",
+    "category": "ethnic",
+    "color": "multicolor",
+    "gender": "Women's",
+    "price_inr": 3499,
+    "image": "p017.jpg"
+  },
+  {
+    "product_id": "P018",
+    "name": "Dandiya Night Outfit Set",
+    "description": "Festive dandiya outfit with bright printed kurta and churidar. Features traditional block print patterns and mirror embellishments. Ideal for Navratri dandiya celebrations and Dussehra events.",
+    "category": "ethnic",
+    "color": "multicolor",
+    "gender": "Unisex",
+    "price_inr": 2999,
+    "image": "p018.jpg"
+  },
+{
+    "product_id": "P019",
+    "name": "Grey Casual T-Shirt",
+    "description": "Classic grey crew neck t-shirt in soft cotton blend. Comfortable relaxed fit for everyday wear.",
+    "category": "tops",
+    "color": "grey",
+    "gender": "Men's",
+    "price_inr": 1799,
+    "image": "p019.jpg"
+  },
+  {
+    "product_id": "P020",
+    "name": "White Graphic Print T-Shirt Men",
+    "description": "Bold white t-shirt with striking graphic print design on the front. Soft cotton blend, streetwear inspired style.",
+    "category": "tops",
+    "color": "white",
+    "gender": "Men's",
+    "price_inr": 2499,
+    "image": "p020.jpg"
+  },
+  {
+    "product_id": "P021",
+    "name": "White Graphic Print T-Shirt Women",
+    "description": "Stylish white fitted t-shirt with graphic print detail. Soft cotton blend with a feminine cut. Perfect for casual outings.",
+    "category": "tops",
+    "color": "white",
+    "gender": "Women's",
+    "price_inr": 2299,
+    "image": "p021.jpg"
+  }]
